@@ -64,7 +64,7 @@ My research focuses on:
 
 - **Human robot alignment:**  We develop methods to empower a robot with the ability to efficiently understand and be understood by human users through a variety of physical interactions. We explore how robots can aptly respond to and collaborate meaningfully with users.
 
-- **Model-based RL and Control** We develop methods to aid a robot to efficient learn operation strategy in environments by simultaneously learning the transition model and the action policy.
+- **Model-based RL and Control** We develop methods to aid a robot to efficiently learn operation strategy in environments by simultaneously learning the transition model and the action policy.
 
 
 <p style="margin-bottom:1.2cm; margin-left: 1.5cm"> </p>
