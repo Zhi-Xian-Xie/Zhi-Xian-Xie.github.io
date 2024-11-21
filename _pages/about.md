@@ -88,7 +88,7 @@ My research focuses on:
 [[Webpage]](https://zhi-xian-xie.github.io/safe_alignment_site/){:target="_blank"}
 
 <p style="margin-bottom:1.2cm; margin-left: 1.5cm"> </p>
-<img src="collections/research/VLM/vlm.gif"  width="160"  align="left" hspace="30" vspace=0 />
+<img src="collections/research/VLM/vlm.gif"  width="160"  align="left" hspace="30" vspace="20" />
 
 **Language-Model-Assisted Bi-Level Programming for Reward Learning from Internet Videos** <br />
 Harsh Mahesheka, <b>Zhixian Xie</b>, Zhaoran Wang, Wanxin Jin <br />
@@ -97,5 +97,5 @@ Harsh Mahesheka, <b>Zhixian Xie</b>, Zhaoran Wang, Wanxin Jin <br />
 [[Video]](https://www.youtube.com/watch?v=CzlyYLu4mLQ){:target="_blank"}/
 [[Webpage]](https://harshmahesheka.github.io/vid-to-reward/){:target="_blank"}
 
-<p style="margin-bottom:1.8cm; margin-left: 1.5cm"> </p>
+<p style="margin-bottom:1.2cm; margin-left: 1.5cm"> </p>
 
