@@ -44,35 +44,27 @@ In 2022, I received my B.Eng degree in automation at Shanghai Jiao Tong Universi
     <img src="assets/img/platform_icon/twitter.gif" width="35" target="_blank"></a>  &nbsp;&nbsp;&nbsp; -->
 <!-- <a href = "https://www.youtube.com/channel/UCkMgzXIhi3BmWP7tAdeyoaA" target="_blank">
     <img src="assets/img/platform_icon/youtube.gif" width="35" target="_blank"></a>  &nbsp;&nbsp;&nbsp; -->
-
 </center>
-
-
 <br />
-
-
-
-
------
+<hr />
+<br />
 <center>
     <h4><strong>My Research</strong></h4>
 </center>
 
-<p style="margin-bottom:1.2cm; margin-left: 1.5cm"> </p>
-
+<p style="margin-left: 1.5cm"> </p>
 My research focuses on:
+- **Robot Learning from Human:**  We develop methods to empower a robot with the ability to efficiently understand and be understood by human users through a variety of physical interactions. We explore how robots can aptly respond to and collaborate meaningfully with users.
 
-- **Human robot alignment:**  We develop methods to empower a robot with the ability to efficiently understand and be understood by human users through a variety of physical interactions. We explore how robots can aptly respond to and collaborate meaningfully with users.
-
-- **Model-based RL and Control** We develop methods to aid a robot to efficiently learn operation strategy in environments by simultaneously learning the transition model and the action policy.
-
+- **Dexterous Manipulation** We develop model-based and model-free mathods to enable highly-dynamic, contact-rich tasks on robot manipulation tasks.
 
 <p style="margin-bottom:1.2cm; margin-left: 1.5cm"> </p>
 
 
 -----
+
 <center>
-    <h4><strong>Preprints</strong></h4>
+    <h4><strong>Publication & Preprints</strong></h4>
 </center>
 
 
@@ -97,5 +89,15 @@ Harsh Mahesheka, <b>Zhixian Xie</b>, Zhaoran Wang, Wanxin Jin <br />
 [[Video]](https://www.youtube.com/watch?v=CzlyYLu4mLQ){:target="_blank"}/
 [[Webpage]](https://harshmahesheka.github.io/vid-to-reward/){:target="_blank"}
 
+<p style="margin-bottom:1.2cm; margin-left: 1.5cm"> </p>
+<img src="collections/research/human/cut_robust.png"  width="160"  align="left" hspace="30" vspace="20" />
+
+**Robust Reward Alignment via Hypothesis Space Batch Cutting** <br />
+<b>Zhixian Xie</b>, Haode Zhang, Yizhe Feng, Wanxin Jin <br />
+*Accepted by ICML 2025* <br />
+[[PDF]](https://arxiv.org/abs/2410.09286){:target="_blank"}/ 
+Video: Coming Soon/
+Code: Coming Soon/
+Page: Coming Soon
 <p style="margin-bottom:1.2cm; margin-left: 1.5cm"> </p>
 

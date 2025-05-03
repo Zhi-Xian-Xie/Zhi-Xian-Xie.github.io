@@ -1,4 +1,4 @@
-I"¦<h2 id="zhixian-xie"><strong>Zhixian Xie</strong></h2>
+I"­<h2 id="zhixian-xie"><strong>Zhixian Xie</strong></h2>
 
 <p style="margin-bottom:1.3cm; margin-left: 0.5cm"> </p>
 
@@ -25,20 +25,22 @@
 <p><br /></p>
 
 <hr />
+
+<center>
+    <h4><strong> a </strong></h4>
+</center>
 <center>
     <h4><strong>My Research</strong></h4>
 </center>
 
 <p style="margin-bottom:1.2cm; margin-left: 1.5cm"> </p>
-
 <p>My research focuses on:</p>
-
 <ul>
   <li>
-    <p><strong>Human robot alignment:</strong>  We develop methods to empower a robot with the ability to efficiently understand and be understood by human users through a variety of physical interactions. We explore how robots can aptly respond to and collaborate meaningfully with users.</p>
+    <p><strong>Robot Learning from Human:</strong>  We develop methods to empower a robot with the ability to efficiently understand and be understood by human users through a variety of physical interactions. We explore how robots can aptly respond to and collaborate meaningfully with users.</p>
   </li>
   <li>
-    <p><strong>Model-based RL and Control</strong> We develop methods to aid a robot to efficiently learn operation strategy in environments by simultaneously learning the transition model and the action policy.</p>
+    <p><strong>Dexterous Manipulation</strong> We develop model-based and model-free mathods to enable highly-dynamic, contact-rich tasks on robot manipulation tasks.</p>
   </li>
 </ul>
 
@@ -46,7 +48,7 @@
 
 <hr />
 <center>
-    <h4><strong>Preprints</strong></h4>
+    <h4><strong>Publication &amp; Preprints</strong></h4>
 </center>
 
 <p style="margin-bottom:1.2cm; margin-left: 1.5cm"> </p>
@@ -61,7 +63,7 @@
 <a href="https://zhi-xian-xie.github.io/safe_alignment_site/" target="_blank">[Webpage]</a></p>
 
 <p style="margin-bottom:1.2cm; margin-left: 1.5cm"> </p>
-<p><img src="collections/research/VLM/vlm.gif" width="160" align="left" hspace="50" vspace="0" /></p>
+<p><img src="collections/research/VLM/vlm.gif" width="160" align="left" hspace="30" vspace="20" /></p>
 
 <p><strong>Language-Model-Assisted Bi-Level Programming for Reward Learning from Internet Videos</strong> <br />
 Harsh Mahesheka, <b>Zhixian Xie</b>, Zhaoran Wang, Wanxin Jin <br />
@@ -70,6 +72,16 @@ Harsh Mahesheka, <b>Zhixian Xie</b>, Zhaoran Wang, Wanxin Jin <br />
 <a href="https://www.youtube.com/watch?v=CzlyYLu4mLQ" target="_blank">[Video]</a>/
 <a href="https://harshmahesheka.github.io/vid-to-reward/" target="_blank">[Webpage]</a></p>
 
+<p style="margin-bottom:1.2cm; margin-left: 1.5cm"> </p>
+<p><img src="collections/research/human/cut_robust.png" width="160" align="left" hspace="30" vspace="20" /></p>
+
+<p><strong>Robust Reward Alignment via Hypothesis Space Batch Cutting</strong> <br />
+<b>Zhixian Xie</b>, Haode Zhang, Yizhe Feng, Wanxin Jin <br />
+<em>Accepted by ICML 2025</em> <br />
+<a href="https://arxiv.org/abs/2410.09286" target="_blank">[PDF]</a>/ 
+Video: Coming Soon/
+Code: Coming Soon/
+Page: Coming Soon</p>
 <p style="margin-bottom:1.2cm; margin-left: 1.5cm"> </p>
 
 :ET
