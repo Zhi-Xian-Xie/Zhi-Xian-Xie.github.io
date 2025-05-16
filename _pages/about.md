@@ -36,12 +36,12 @@ In 2022, I received my B.Eng degree in automation at Shanghai Jiao Tong Universi
 <center>
     <a href = "mailto:zxxie@asu.edu" target="_blank"> 
     <img src="assets/img/platform_icon/email.gif" width="35" target="_blank"> </a>   &nbsp;&nbsp;&nbsp;
-<!-- <a href = "https://scholar.google.com/citations?user=SoEC4h4AAAAJ&hl=en" target="_blank"> 
-    <img src="assets/img/platform_icon/scholar.png" width="35" target="_blank"></a>   &nbsp;&nbsp;&nbsp; -->
+<a href = "https://scholar.google.com/citations?user=Q-IQZRsAAAAJ&hl=en&authuser=1" target="_blank"> 
+    <img src="assets/img/platform_icon/scholar.png" width="35" target="_blank"></a>   &nbsp;&nbsp;&nbsp;
 <a href = "https://github.com/Zhi-Xian-Xie" target="_blank">
     <img src="assets/img/platform_icon/github.gif" width="35" target="_blank"></a> &nbsp;&nbsp;&nbsp;
-<!-- <a href = "https://twitter.com/jinwanxin" target="_blank">
-    <img src="assets/img/platform_icon/twitter.gif" width="35" target="_blank"></a>  &nbsp;&nbsp;&nbsp; -->
+<a href = "https://www.linkedin.com/in/zhixian-xie-75b599355" target="_blank">
+    <img src="assets/img/platform_icon/linkedin.png" width="35" target="_blank"></a>  &nbsp;&nbsp;&nbsp;
 <!-- <a href = "https://www.youtube.com/channel/UCkMgzXIhi3BmWP7tAdeyoaA" target="_blank">
     <img src="assets/img/platform_icon/youtube.gif" width="35" target="_blank"></a>  &nbsp;&nbsp;&nbsp; -->
 </center>
