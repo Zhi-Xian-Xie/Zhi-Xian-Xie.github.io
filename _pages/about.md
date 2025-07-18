@@ -54,10 +54,10 @@ In 2022, I received my B.Eng degree in automation at Shanghai Jiao Tong Universi
 
 <p style="margin-left: 1.5cm"> </p>
 My research focuses on:
-- **Robot Learning from Human:**  We develop methods to empower a robot with the ability to efficiently understand and be understood by human users through a variety of physical interactions. We explore how robots can aptly respond to and collaborate meaningfully with users.
 
-- **Dexterous Manipulation** We develop model-based and model-free mathods to enable highly-dynamic, contact-rich tasks on robot manipulation tasks.
+- **Robot Learning from Human** I develop algorithms that enable robots to learn efficiently from human data—such as preferences, corrections, and demonstrations. I am interested in imitation learning and interactive learning paradigms to allow robots to generalize from limited supervision and align their behavior with human intent, facilitating natural and adaptive human-robot collaboration.
 
+- **Dexterous Manipulation** I design model-based and model-free methods for dynamic, contact-rich manipulation with high-DOF robotic hands. My research integrates control theory and learning to enable robust, generalizable skills such as in-hand reorientation and non-prehensile manipulation, advancing autonomous dexterity in real-world settings.
 <p style="margin-bottom:1.2cm; margin-left: 1.5cm"> </p>
 
 
@@ -98,5 +98,28 @@ Harsh Mahesheka, <b>Zhixian Xie</b>, Zhaoran Wang, Wanxin Jin <br />
 [[PDF]](https://arxiv.org/abs/2410.09286){:target="_blank"}/ 
 [[Code]](https://github.com/asu-iris/HSBC-Robust-Learning){:target="_blank"}/
 [[Webpage]](https://zhi-xian-xie.github.io/HSBC-page/){:target="_blank"}
+<p style="margin-bottom:1.2cm; margin-left: 1.5cm"> </p>
+
+<p style="margin-bottom:1.2cm; margin-left: 1.5cm"> </p>
+<img src="collections/research/manipulation/comp_free_gif.gif"  width="160"  align="left" hspace="30" vspace="20" />
+
+**On-Palm Dexterity: Dynamic Reorientation of Objects
+via Emergent Flipping and Sliding** <br />
+<b>Zhixian Xie</b>, Wen Yang, Wanxin Jin <br />
+*ICRA 2025 Workshop on Learning Meets Model-Based Methods for Contact-Rich Manipulation* <br />
+[[PDF]](https://contact-rich.github.io/assets/pdf/papers/37_On_Palm_Dexterity_Dynamic.pdf){:target="_blank"}/ 
+[[Webpage]](https://zhi-xian-xie.github.io/comp_free_ctrl_site/){:target="_blank"}
+<p style="margin-bottom:1.2cm; margin-left: 1.5cm"> </p>
+
+
+<p style="margin-bottom:1.2cm; margin-left: 1.5cm"> </p>
+<img src="collections/research/manipulation/twintrack.gif"  width="160"  align="left" hspace="30" vspace="20" />
+
+**TwinTrack: Bridging Vision and Contact Physics for Real-Time Tracking of Unknown Dynamic Objects** <br />
+Wen Yang, <b>Zhixian Xie</b>, Xuechao Zhang, Heni Ben Amor, Shan Lin, Wanxin Jin <br />
+*arXiv preprint, 2025* <br />
+[[PDF]](https://arxiv.org/abs/2505.22882){:target="_blank"}/ 
+[[Webpage]](https://irislab.tech/TwinTrack-webpage/){:target="_blank"}/
+[[Video]](https://www.youtube.com/watch?v=UGn-kZzQsEg){:target="_blank"}
 <p style="margin-bottom:1.2cm; margin-left: 1.5cm"> </p>
 
