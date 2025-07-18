@@ -96,8 +96,7 @@ Harsh Mahesheka, <b>Zhixian Xie</b>, Zhaoran Wang, Wanxin Jin <br />
 <b>Zhixian Xie</b>, Haode Zhang, Yizhe Feng, Wanxin Jin <br />
 *Accepted by ICML 2025* <br />
 [[PDF]](https://arxiv.org/abs/2410.09286){:target="_blank"}/ 
-Video: Coming Soon/
-Code: Coming Soon/
-Page: Coming Soon
+[[Code]](https://github.com/asu-iris/HSBC-Robust-Learning){:target="_blank"}/
+[[Webpage]](https://zhi-xian-xie.github.io/HSBC-page/){:target="_blank"}
 <p style="margin-bottom:1.2cm; margin-left: 1.5cm"> </p>
 
