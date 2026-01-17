@@ -6,7 +6,7 @@ description:
 
 profile:
   align: right
-  image: zxxie_profile.jpeg
+  image: goldengate.jpg
   address: 
 
 
