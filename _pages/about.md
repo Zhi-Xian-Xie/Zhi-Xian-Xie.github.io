@@ -78,6 +78,7 @@ with safety, robustness, and data efficiency.
 **Where to Touch, How to Contact: Hierarchical RL–MPC Framework for Geometry-Aware Long-Horizon Dexterous Manipulation** <br />
 <b>Zhixian Xie</b>, Yu Xiang, Michael Posa, Wanxin Jin<br />
 *Submitted to RSS 2026* <br />
+[[Paper]](https://arxiv.org/abs/2601.10930){:target="_blank"}/ 
 [[Webpage]](https://zhi-xian-xie.github.io/contact_intention_website/){:target="_blank"}
 
 
